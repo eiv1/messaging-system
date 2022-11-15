@@ -1,8 +1,5 @@
 # Messaging system- Python, Django
 # Aviya yahav
-# Django admin:
-# Username: admin
-# Password: admin
 
 
 from django.shortcuts import render
